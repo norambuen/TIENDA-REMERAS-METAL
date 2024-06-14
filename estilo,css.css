@@ -1,0 +1,53 @@
+body {
+  font-family: 'Roboto', sans-serif;
+background-color: #944040;
+}
+.card{
+  height: 600px;
+  width: 400px;
+  background-color: rgb(228, 0, 0);
+  margin-left: 43%;
+  display:flex;
+
+  }
+  #GOOGLEFONT{
+    .jacquard-12-regular {
+      font-family: "Jacquard 12", system-ui;
+      font-weight: 400;
+      font-style: normal;
+    justify-content: center;
+    }
+
+    
+  }
+
+
+footer {
+  background-color: #333;
+  color: #f50000;
+  padding: 20px 0;
+}
+.LOL{
+  background-color: #f50000;
+}
+footer h4 {
+  color: #fff;
+}
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+footer ul li {
+  margin-bottom: 5px;
+}
+
+footer ul li a {
+  color: #fff;
+}
+.carousel-item{
+  height: 800px;
+  width: 800px;
+margin-left: 25%;
+
+}
